@@ -13,7 +13,7 @@ export const profile = {
     "I build full-stack web software and LLM agents, and research how to check that programs, and the models writing them, do what they claim.",
   education: "M.Eng. CS, Oregon State (Dec 2026)",
   status: "Open to new-grad SWE roles",
-  email: "YOUR-EMAIL@example.com", // EDIT
+  email: "roshanaditya23@gmail.com", // EDIT
   github: "https://github.com/roshan-aditya-murali",
   linkedin: "https://www.linkedin.com/in/roshan-aditya-murali-577a831b3/", // EDIT
   resume: "Resume.pdf", // put resume.pdf in /public
